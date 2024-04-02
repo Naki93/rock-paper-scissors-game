@@ -1,0 +1,12 @@
+/* Center the results div */
+.result{
+    display: block; /* Initially display the message */
+    visibility: hidden; /* Hide the message */
+    text-align: center;
+    font-size: large;
+    font-family: Helvetica, sans-serif;
+}
+
+.visible {
+    display: block; /* or any other display property */
+}
